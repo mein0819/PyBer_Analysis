@@ -29,4 +29,19 @@ From this DataFrame we can conclude the following:
 Supporting these findings further is the Total Fare by City Type line chart that shows total fares for each city type 
 from January through April of 2019
 
-![line chart](
+![line chart](https://github.com/mein0819/PyBer_Analysis/blob/main/readMe_Images/line_graph.png)
+
+We can see that Urban rides consistently had the most fares over this time frame, and Suburban rides firmly in the middle with Rural rides accounting for the lowest amount of fares. Also noticable is a peak around the 3rd week of February amongst all city types. 
+
+## Summary
+
+Based on this analysis the following recommendations are offered to helpe improve services, affordability and profits:
+- Increase the amount of drivers in Rural cities. The high fare average per ride and per driver suggests that the distance
+  for these rides is greater and longer trips leave less available time for the available drivers to pick up new riders.
+  Having more drivers at a given time improves access to PyBer's services and may help encourage more ride orders from 
+  customers in these areas
+- Further analysis exploring distance per ride for each city type and how that correlates to the number of rides and 
+  total fares in order to see where improvements can be had in affordabilty for customers and incentives for drivers.
+- Further analysis into peaks in business over time, such as the common spike in total fares at the end of February
+  and how resources can be allocated to take advantage to the surge in demand
+
