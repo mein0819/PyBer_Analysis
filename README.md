@@ -21,4 +21,12 @@ and average fare per driver, for each city type.
 From this DataFrame we can conclude the following:
 - Urban rides were 13x higher than Rural rides and 2.5x higher than Suburban rides
 - The total drivers in urban cities was 30x higher than in Rural cities and almost 5x higher than Suburban cities
-- The total fares for Rural cities only accounts for approximately 15% of combined fares
+- The total fares for Rural cities only accounts for approximately 15% of combined fares for all city types yet 
+  averages $10 more per ride than Urban city rides and over 3x the avererage fare per driver than Urban city rides
+- Only Urban cities had a higher ratio of drivers to rides, resulting in the lowest average fare per ride and 
+  average fare per driver of the city types
+  
+Supporting these findings further is the Total Fare by City Type line chart that shows total fares for each city type 
+from January through April of 2019
+
+![line chart](
